@@ -1,0 +1,16 @@
+# IntelliJ project files
+.idea
+*.iml
+*.js
+*.js.map
+/node_modules
+/bower_components
+
+.DS_Store
+.editorconfig
+.travis.yml
+README.adoc
+appveyor.yml
+/typings
+
+!systemjs.config.js
