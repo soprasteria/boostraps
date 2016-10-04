@@ -1,9 +1,0 @@
-<!-- Admin part -->
-<div *ngIf="isAdmin()">
-  <button md-raised-button style="background: grey; color: white; margin: 10px" (click)="goToAdd()">Nouvel item
-  </button>
-</div>
-<!-- Events list -->
-<md-card *ngFor="let item of items" style="margin-bottom: 5px; margin-top: 5px; padding-top: 15px; padding-bottom: 0px">
-    <calendar-row [item]="item"></calendar-row>
-</md-card>
