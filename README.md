@@ -1,12 +1,10 @@
 # Our Bootstraps
 
 # Android
-Fork and load in android studio
+https://github.com/soprasteria/bootstrap-android
 
 # Angular2
-Fork and load in webstorm.
-To run : in root folder : npm run tsc & npm run server-dev
+https://github.com/soprasteria/bootstrap-angular2
 
 # Spring-boot
-Fork and load in intelliJ
-To run : execute gradle task bootRun
+https://github.com/soprasteria/bootstrap-spring-boot
